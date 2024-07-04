@@ -15,6 +15,8 @@ As a Data Scientist, my objective is to utilize my skills and knowledge to have 
 - Proficiency in Python, PySpark, SQL, Databricks, and MLflow.
 - Expertise in Machine Learning, Deep Learning, GenAi, RAG, LLM, Langchain, MLOps, Computer Vision, Time Series Forecasting, Large Language Models, and Generative AI.
 - Experience in working with Spark ML models.
+- Demonstrated skill in solving complex business problems using data-driven methods.
+
 
 ### SKILLS
 - **Technologies & Tools**: Python, PySpark, SQL, Shell Scripting, Databricks, Spark ML, MLflow, AWS
