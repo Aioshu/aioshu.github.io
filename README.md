@@ -47,7 +47,7 @@ Modeling, Hypothesis Testing, Time Series Modeling, MLOps
 
 ### PROJECTS
 
-- Incremental Return on AdSpend
+- **Incremental Return on AdSpend**
   - **Development Tools**: K-means Clustering, Statistical Analysis Tools
   - **Project Description**: Developed analytical solutions for Swiftly Systems to improve incremental returns on ad spending.
     - **Responsibilities**:
@@ -55,7 +55,7 @@ Modeling, Hypothesis Testing, Time Series Modeling, MLOps
       - Developed a K-means clustering model for user segmentation in a dataset of over 500K users.
       - Created and documented a pipeline for campaign lift analysis across 250+ campaigns.
 
-- Propensity and Sentiment Modeling
+- **Propensity and Sentiment Modeling**
   - **Development Tools**: Machine Learning Models, XLNet, ALBERT, RoBERTa, DistilBERT
   - **Project Description**: Develop models for customer conversion and audience sentiment analysis.
     - **Responsibilities**:
@@ -63,21 +63,21 @@ Modeling, Hypothesis Testing, Time Series Modeling, MLOps
       - Developed propensity models and sentiment analysis using state-of-the-art techniques.
       - Automated the process of creating lookalike audiences and sentiment analysis for clients.
 
-- Heimdall Correlation
+- **Heimdall Correlation**
   - **Development Tools**: Data Analysis and Visualization Tools
   - **Project Description**: Analyzed digital marketing data for Fluid to identify correlations and patterns.
     - **Responsibilities**:
       - Performed Exploratory Data Analysis and Hypothesis Testing.
       - Developed a Databricks pipeline for finding similarities in Google searches across different US states.
 
-- Forecasting
+- **Forecasting**
   - **Development Tools**: Forecasting Models
   - **Project Description**: Created forecasting models to predict device usage and internet data needs in Japan.
     - **Responsibilities**:
       - Forecasted daily maximum concurrently active devices for the next fifteen days.
       - Predicted daily internet data usage for efficient planning and resource allocation.
 
-- LLM Chatbot
+- **LLM Chatbot**
   - **Development Tools**: Large Language Models, Streamlit, OpenAI API, Zendesk Chat
   - **Project Description**: Developed an advanced chatbot for enhancing customer support.
     - **Responsibilities**:
@@ -85,7 +85,7 @@ Modeling, Hypothesis Testing, Time Series Modeling, MLOps
       - Developed a Knowledge Manager application for dataset management and enrichment.
       - Enhanced bot engagement and resolution rates through Vector Search Database and ChatGPT customization.
 
-- Demand Forecasting
+- **Demand Forecasting**
   - **Development Tools**: Asset Bundle, Forecasting Models
   - **Project Description**: Migrated 700+ models for store location forecasting, aggregated on a date basis, and parallelized the model training process. Created a serving pipeline for deployment across all three environments using a deployable Asset Bundle.
     - **Responsibilities**:
@@ -93,25 +93,25 @@ Modeling, Hypothesis Testing, Time Series Modeling, MLOps
       - Predicted demand for each product across multiple sources.
       - Created a deployable Asset Bundle pipeline to train, test, and deploy models in different Databricks environments, including production, UAT, and development.
 
-- Safety Literature Review (SLR)
+- **Safety Literature Review (SLR)**
   - **Development Tools**: NLP Tools, EDA Techniques
   - **Project Description**: Assisted regulatory requirements through an SLR tool.
     - **Responsibilities**:
       - Conducted Exploratory Data Analysis and Hypothesis Testing for clinical trial criteria.
 
-- Competitive Intelligence Platform (CIP)
+- **Competitive Intelligence Platform (CIP)**
   - **Development Tools**: Market Analysis Tools
   - **Project Description**: Developed a tool to gather and analyze market and competitor information.
     - **Responsibilities**:
       - Enhanced competitive advantage through detailed market analysis.
 
-- Medical Literature Review (MLR)
+- **Medical Literature Review (MLR)**
   - **Development Tools**: Content Review and Compliance Tools
   - **Project Description**: Created a tool to ensure compliance in medical literature and marketing materials.
     - **Responsibilities**:
       - Ensured adherence to guidelines in various marketing assets including PDFs, images, and documents.
 
-- ADVISORY/POCs
+- **ADVISORY/POCs**
   - **Project 1: Anomaly Detection on Orders Data**
     - **Development Tools**: LSTM Autoencoder, Isolation Forest, SHAPLEY Values
     - **Project Description**: Implemented anomaly detection for Casella Waste Systems using advanced machine learning techniques.
