@@ -11,35 +11,28 @@ As a Data Scientist, my objective is to utilize my skills and knowledge to have 
 
 
 ### EXPERIENCE SUMMARY:
-Data Scientist with 4+ years of experience.
-
-Proficiency in Python, PySpark, SQL, Databricks, and MLflow.
-
-Expertise in Machine Learning, Deep Learning, GenAi, RAG, LLM, Langchain, MLOps, Computer Vision, Time Series Forecasting, Large Language Models, and Generative AI.
-
-Experience in working with Spark ML models.
+- Data Scientist with 4+ years of experience.
+- Proficiency in Python, PySpark, SQL, Databricks, and MLflow.
+- Expertise in Machine Learning, Deep Learning, GenAi, RAG, LLM, Langchain, MLOps, Computer Vision, Time Series Forecasting, Large Language Models, and Generative AI.
+- Experience in working with Spark ML models.
 
 ### SKILLS
-**Technologies & Tools**: Python, PySpark, SQL, Shell Scripting, Databricks, Spark ML, MLflow, AWS
-
-**Machine/Deep Learning**: Regression Models, Classification Models, Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, Natural Language Processing, Propensity 
-
+- **Technologies & Tools**: Python, PySpark, SQL, Shell Scripting, Databricks, Spark ML, MLflow, AWS
+- **Machine/Deep Learning**: Regression Models, Classification Models, Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, Natural Language Processing, Propensity 
 Modeling, Hypothesis Testing, Time Series Modeling, MLOps
-
-**Generative AI**: Prompt Engineering, LLM Fine-Tuning, LLM-Quantization, LLM Serving on MLflow, LLM CPU Inference, LangChains and Agents
+- **Generative AI**: Prompt Engineering, LLM Fine-Tuning, LLM-Quantization, LLM Serving on MLflow, LLM CPU Inference, LangChains and Agents
 
 
 ### Education
 
-**MSc Mathematics and Computer Science** from Jamia Millia Islamia 
-
-**Bsc Mathematics (Hons)** from Delhi University
+- **MSc Mathematics and Computer Science** from Jamia Millia Islamia 
+- **Bsc Mathematics (Hons)** from Delhi University
 
 
 ### WORK EXPERIENCE
-**Oct 2021 - Till Date**- Data Scientist (Koantek)
-**July 2019 - Sep 2021**- Data Scientist (TCS)
-**Jan 2019 - March 2019**- Data Analyst (TCS)
+- **Oct 2021 - Till Date**- Data Scientist (Koantek)
+- **July 2019 - Sep 2021**- Data Scientist (TCS)
+- **Jan 2019 - March 2019**- Data Analyst (TCS)
 
 
 
