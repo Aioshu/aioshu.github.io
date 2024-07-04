@@ -24,8 +24,15 @@ As a Data Scientist, my objective is to utilize my skills and knowledge to have 
 Modeling, Hypothesis Testing, Time Series Modeling, MLOps
 - **Generative AI**: Prompt Engineering, LLM Fine-Tuning, LLM-Quantization, LLM Serving on MLflow, LLM CPU Inference, LangChains and Agents
 
+### FRAMEWORK
+<img src="assets/img/framework/numpy.png" alt="Numpy Logo" width="50"/>  <img src="assets/img/framework/matplotlib.png" alt="matplotlib Logo" width="50"/>  <img src="assets/img/framework/pandas.png" alt="Pandas Logo" width="50"/>  <img src="assets/img/framework/databricks.png" alt="Databricks Logo" width="50"/>  <img src="assets/img/framework/jupyter_notebook.png" alt="jupyter_notebook Logo" width="50"/>  <img src="assets/img/framework/keras.png" alt="Keras Logo" width="50"/> <img src="assets/img/framework/scikit_learn.png" alt="scikit_learn Logo" width="50"/> <img src="assets/img/framework/spacy.png" alt="spacy Logo" width="50"/> <img src="assets/img/framework/spark.png" alt="spark Logo" width="50"/> <img src="assets/img/framework/tensorflow.png" alt="tensorflow Logo" width="50"/> <img src="assets/img/framework/visual_studio.png" alt="visual_studio Logo" width="50"/>
 
-### Education
+
+
+
+
+
+### EDUCATION
 
 - **MSc Mathematics and Computer Science** from Jamia Millia Islamia 
 - **Bsc Mathematics (Hons)** from Delhi University
@@ -122,5 +129,6 @@ Modeling, Hypothesis Testing, Time Series Modeling, MLOps
 
 
 ### KEY ACHIEVEMENTS & RESEARCH PUBLICATION
-**“Drug Adverse Event Detection Using Text-Based Convolutional Neural Networks (TextCNN) Technique”** The present study is a part of the project which aims to design an intelligent medical information retrieval and summarization system.In my recent paper, my results outperforms the  result of existing research paper on classification task with the increase in precision and recall of 2.1 
+[Publication][(https://www.mdpi.com/2079-9292/11/20/3336)]
+- **“Drug Adverse Event Detection Using Text-Based Convolutional Neural Networks (TextCNN) Technique”** The present study is a part of the project which aims to design an intelligent medical information retrieval and summarization system.In my recent paper, my results outperforms the  result of existing research paper on classification task with the increase in precision and recall of 2.1 
 
