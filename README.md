@@ -1,5 +1,5 @@
-# DATA SCIENTIST
-
+## DATA SCIENTIST
+<img src="assets/img/framework/numpy.png" alt="Numpy Logo" width="50"/>  <img src="assets/img/framework/matplotlib.png" alt="matplotlib Logo" width="50"/>  <img src="assets/img/framework/pandas.png" alt="Pandas Logo" width="50"/>  <img src="assets/img/framework/databricks.png" alt="Databricks Logo" width="50"/> 
 
 ### ABOUT 
 In the field of Data Science, I have gained significant experience over the past 4+  years. Throughout my career, I have developed a passion for utilizing Python, PySpark, Machine Learning, Deep Learning, Cloud Computing, and Data Engineering to deliver successful projects for my clients. I hold an M.Sc. in Mathematics and Computer Science from Jamia University, Delhi.
