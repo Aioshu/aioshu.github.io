@@ -1,7 +1,7 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: Ashish Rawat
 logo: /assets/img/profile_image.jpg
-logo: /assets/img/profile_image.jpg
+logo: <img src="assets/img/framework/numpy.png" alt="Numpy Logo" width="50"/> 
 #description: text below image
 show_downloads: true
 plugins:
