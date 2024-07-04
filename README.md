@@ -1,5 +1,6 @@
 # DATA SCIENTIST                                
-<img src="assets/img/social_media/LinkedIn_logo_initials.png" alt="LinkedIn_logo_initials Logo" width="25"/>  <img src="assets/img/social_media/youtube.jpg" alt="matplotlib Logo" width="25"/>  <img src="assets/img/social_media/publication.jpg" alt="Pandas Logo" width="25"/>  <img src="assets/img/social_media/geeksfogeeks.jpg" alt="Databricks Logo" width="25"/> 
+<a href="https://www.linkedin.com/in/ashish-rawat-28a139ab/" rel="some text"><img src="assets/img/social_media/LinkedIn_logo_initials.png" alt="LinkedIn_logo_initials Logo" width="50"/></a>  <a href="https://www.youtube.com/watch?v=kaNCqAorRgw&t=243s" rel="some text"></a><img src="assets/img/social_media/youtube.jpg" alt="matplotlib Logo" width="50"/>  <a href="
+https://www.mdpi.com/2079-9292/11/20/3336" rel="some text"><img src="assets/img/social_media/publication.jpg" alt="Pandas Logo" width="50"/></a>  <a href="https://www.geeksforgeeks.org/user/ar29958/" rel="some text"><img src="assets/img/social_media/geeksfogeeks.jpg" alt="Databricks Logo" width="50"/></a> 
 
 ### ABOUT 
 In the field of Data Science, I have gained significant experience over the past 4+  years. Throughout my career, I have developed a passion for utilizing Python, PySpark, Machine Learning, Deep Learning, Cloud Computing, and Data Engineering to deliver successful projects for my clients. I hold an M.Sc. in Mathematics and Computer Science from Jamia University, Delhi.
